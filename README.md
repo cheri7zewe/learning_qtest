@@ -4,4 +4,5 @@ The first files are from a Sitepoint website on setting up Q-Unit Testing.<br>
 Files are:<br>
 q_unit.js<br>
 q_unit.css<br>
-index.html
+index.html<br>
+tests.js
